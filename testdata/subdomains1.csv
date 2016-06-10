@@ -1,0 +1,23 @@
+target,ip address,domain name,type
+build.drchrono.com,104.16.93.65,build.drchrono.com,alias
+build.drchrono.com,104.16.95.65,drchrono.uservoice.com,host
+build.drchrono.com,104.16.94.65,drchrono.uservoice.com,host
+build.drchrono.com,104.16.96.65,drchrono.uservoice.com,host
+build.drchrono.com,104.16.92.65,drchrono.uservoice.com,host
+build.drchrono.com,104.16.93.65,drchrono.uservoice.com,host
+docs.drchrono.com,74.125.133.121,docs.drchrono.com,alias
+docs.drchrono.com,74.125.133.121,ghs.googlehosted.com,host
+email.drchrono.com,192.28.144.188,email.drchrono.com,alias
+email.drchrono.com,192.28.144.188,drchrono.mktoweb.com,host
+go.drchrono.com,199.15.213.48,go.drchrono.com,alias
+go.drchrono.com,199.15.213.48,mkto-q0060.com,host
+go.drchrono.com,199.15.213.48,go.drchronomarketing.com,alias
+go.drchrono.com,199.15.213.48,mkto-q0060.com,host
+info.drchrono.com,192.28.144.188,info.drchrono.com,alias
+info.drchrono.com,192.28.144.188,drchrono.mktoweb.com,host
+start.drchrono.com,54.194.204.85,start.drchrono.com,alias
+start.drchrono.com,54.194.25.153,unbouncepages.com,host
+start.drchrono.com,54.194.204.85,unbouncepages.com,host
+us.drchrono.com,66.6.43.22,us.drchrono.com,alias
+us.drchrono.com,66.6.42.22,domains.tumblr.com,host
+us.drchrono.com,66.6.43.22,domains.tumblr.com,host
